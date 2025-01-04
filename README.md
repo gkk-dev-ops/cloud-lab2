@@ -8,7 +8,7 @@ Project to set up www server with possibility to upload and read files from S3 a
 
 ## Lab 3
 
-Web server that helps with genaration of simulated Buisness Data **only** to authorized users using AWS Cogito service.
+Example of an application that directs to AWS Cognito login page or, for authorized users, displays his details of AWS Cognito account.
 
 ## Lab 4
 
